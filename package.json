@@ -1,0 +1,30 @@
+{
+  "name": "tristate-checkbox-do-not-download",
+  "version": "0.0.2",
+  "description": "Do not download. It will not work for you. This is a test. This is a tristate checkbox that exists in three states, all items checked, some items checked, and no items checked\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[d",
+  "scripts": {
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.intel.com/demarimi/tristate-checkbox"
+  },
+  "keywords": [
+    "checkbox",
+    "box",
+    "tristate",
+    "tristate-checkbox"
+  ],
+  "author": "Jenn Robison and Demari Miller",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^4.3.3",
+    "jasmine-core": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-jasmine": "^1.1.0",
+    "linq-es5": "^1.11.11",
+    "rxjs": "^5.4.2",
+    "typescript": "^2.4.2",
+    "zone.js": "^0.8.16"
+  }
+}
