@@ -1,5 +1,5 @@
 {
-  "name": "tristate-checkbox-do-not-download",
+  "name": "tristate-checkbox",
   "version": "0.0.2",
   "description": "Do not download. It will not work for you. This is a test. This is a tristate checkbox that exists in three states, all items checked, some items checked, and no items checked\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[d",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.intel.com/demarimi/tristate-checkbox"
+    "url": "https://github.com/demarijm/tristate-checkbox"
   },
   "keywords": [
     "checkbox",
